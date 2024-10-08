@@ -1,0 +1,4 @@
+Earth,Milky Way,Rock,1,150,has life,Water
+Mars,Milky Way,Rock,2,227,no life,iron
+Alpha 1,Andromeda,Gas,0,500,no life,nothing
+
