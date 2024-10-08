@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class Main {
     private static ArrayList<Galaxy> galaxies = new ArrayList<>();
     private static Scanner scanner = new Scanner(System.in);
-    private static String dataFile = "planets.txt";
+    private static String dataFile = "C:\\Users\\DoostanSystem\\Desktop\\JavaDotin\\JavaExam\\untitled\\src\\planets.txt";
 
     public static void main(String[] args) {
         DataManager.loadData(galaxies, dataFile);
